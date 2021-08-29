@@ -12,6 +12,9 @@ print(name.title())
 # .count() method
 print(name.count("a"))
 
+# len() function
+print(len(name))
+
 # Find and Replace
 
 print(name.replace("K","S"))
