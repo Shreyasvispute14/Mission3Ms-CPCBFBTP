@@ -1,5 +1,5 @@
 print("Welcome to the Number Guessing Game!")
-print("I am Kaustubh. Can you help me to guess a number between 1 to 10 :")
+print("I am Shreyas. Can you help me to guess a number between 1 to 10 :")
 Number=int(input("Guess a number:"))
 
 if Number == 7:
